@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey, my name's Luuk and I develop whatever I find interesting.
 Some interesting (I guess?) things about me:
-- 22 years old
+- 23 years old
 - ADHD
 - He/him
 - Currently in college
