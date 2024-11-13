@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, my name's Luuk and I develop whatever I find interesting.
-Some interesting (I guess?) things about me:
-- 24 years old
-- ADHD + Autism
-- He/him
-- College dropout lmao
-
-My biggest passion is definitely computer graphics, but I enjoy anything that is both interesting and provides a good challenge.
-Also, I love using Rust, it's very swag
+hiii im luuk im non binary (they/them) and i code rust !!!
